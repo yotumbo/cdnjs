@@ -23,5 +23,6 @@
            "type": "git",
            "url": "https://github.com/ivaynberg/select2"
        }
-   ]
+   ],
+   "namespace": "$.fn.select2"
 }
